@@ -1,0 +1,76 @@
+/* JordanComponent.css */
+.jordan-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-image: url('https://t4.ftcdn.net/jpg/05/76/15/85/360_F_576158513_DfiD9QzJPtab3qRxLFeyEpmywOQXE3hA.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 20px; /* Adjusted padding around the container */
+}
+
+.Title {
+    color: white;
+    font-family: 'Your Cool Font', sans-serif;
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+.shoe-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Changed to repeat(2, 1fr) to display 2 items in each row */
+    gap: 20px;
+    max-width: 850px;
+    margin-top: 20px;
+}
+
+.shoe-item {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    min-height: 750px;
+}
+
+.shoe-item img {
+    width: 100%;
+    height: 375px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.shoe-item h2 {
+    font-size: 1em;
+    margin-bottom: 5px;
+}
+
+.shoe-item p {
+    margin: 0;
+    flex: 1;
+}
+
+.shoe-item .price {
+    position: absolute; /* Position the price */
+    top: 10px; /* Adjusted top spacing */
+    right: 10px; /* Adjusted right spacing */
+    font-weight: bold; /* Make the price bold */
+    font-size: 25px;
+}
+
+.shoe-item select,
+.shoe-item button {
+    margin-top: auto;
+}
+
+.shoe-item select {
+    margin-right: 10px;
+}
+
+.added-to-cart {
+    color: green;
+    font-weight: bold;
+}

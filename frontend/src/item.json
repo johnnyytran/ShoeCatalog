@@ -1,0 +1,74 @@
+[
+    {
+    "id" : 1,
+    "name" : "Air Max 90s Futura",
+    "brand": "Nike",
+    "price" : 149.99,
+    "description": "Introducing the Nike Air Max 90 Futura: where heritage meets innovation. Embrace the future of footwear with this iconic silhouette reimagined for today's sneaker culture. Featuring a fusion of classic design elements and futuristic touches, the Air Max 90 Futura delivers unmatched style and comfort. Step into the next generation of Nike Air Max.",
+    "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/baaea420-efb3-491d-8c46-af3701e563a4/air-max-90-futura-womens-shoes-kvRZ4h.png"
+
+},
+
+{
+    "id" : 2,
+    "name" : "Nike Dunk Low ",
+    "brand": "Nike",
+    "price" : 129.99,
+    "description": "Introducing the Nike Dunk Low: A timeless icon reimagined for the streets of today. Born from basketball heritage, the Dunk Low transcends its roots, becoming a symbol of style and self-expression. With a sleek low-top silhouette and premium materials, this sneaker offers comfort and versatility for any occasion. Elevate your look with the Nike Dunk Low—a legend reborn for the modern era.",
+    "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/0f557b1f-ba79-419c-a814-f7b5d117fbb2/dunk-low-retro-mens-shoes-1xlGBR.png"
+},
+{
+    "id" : 3,
+    "name" : "Nike Pegasus",
+    "brand": "Nike",
+    "price" : 189.99,
+    "description": "Introducing the Nike Pegasus: Where speed meets style, and performance meets comfort. Engineered for the fast-paced lifestyle of the modern athlete, the Nike Pegasus combines cutting-edge technology with timeless design. With a lightweight yet supportive construction, responsive cushioning, and a sleek silhouette, the Pegasus delivers a smooth ride from the track to the streets. Lace up and experience the perfect blend of performance and style with the Nike Pegasus.",
+    "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/846de4aa-e43d-4922-aa99-040e28603712/pegasus-40-btc-mens-road-running-shoes-h3bxQl.png"
+
+},
+{
+    "id" : 4,
+    "name" : "Nike Vapormaxes",
+    "brand": "Nike",
+    "price" : 210.99,
+    "description": "Introducing the Nike VaporMax: Defying gravity with every step. Experience the pinnacle of Nike Air technology with the VaporMax, where innovation meets style in the most dynamic way. Featuring a revolutionary sole unit that provides unparalleled cushioning and responsiveness, the VaporMax offers a sensation of walking on air. With a sleek, futuristic design and lightweight construction, this silhouette redefines what's possible in both performance and fashion. Step into the future with Nike VaporMax.",
+    "image": "https://www.kickscrew.com/cdn/shop/files/main-square_4419505f-c285-4a68-8eed-6c244cec0567_758x.jpg?v=1708088583"
+
+},
+{
+    "id" : 5,
+    "name" : "Nike 4 Impacts",
+    "brand": "Nike",
+    "price" : 159.99,
+    "description": "Introducing Nike 4 Impacts: Elevate your game with the ultimate fusion of performance and style. Engineered to withstand the rigors of intense training and competition, Nike 4 Impacts deliver unmatched support and cushioning where you need it most. With a dynamic design that reflects your commitment to excellence, these sneakers empower you to push your limits and conquer any challenge. Dominate the court, the track, or the streets in Nike 4 Impacts—where every step makes a statement.",
+    "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/592ed586-c8fc-44a0-8331-28b2ffe1ba0b/impact-4-basketball-shoes-99j95W.png"
+
+},
+{
+    "id" : 6,
+    "name" : "Nike Precision 6",
+    "brand": "Nike",
+    "price" : 249.99,
+    "description": "Introducing Nike Precision 6s: Engineered for precision on and off the court. Designed to elevate your game with unparalleled stability and responsiveness, these sneakers are your secret weapon for making every move count. With a sleek, low-profile design and enhanced traction, Nike Precision 6s deliver maximum control and agility from baseline to buzzer. Whether you're driving to the hoop or hitting the streets, lace up and experience the next level of performance with Nike Precision 6s.",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4330d4e4-0431-4a4d-9d62-55f69803091d/precision-6-basketball-shoes-l7zDFB.png"
+
+},
+{
+    "id" : 7,
+    "name" : "Nike Gt Cut 3",
+    "brand": "Nike",
+    "price" : 99.99,
+    "description": "Introducing the Nike GT: a revolutionary leap forward in footwear technology. These sneakers blend cutting-edge innovation with timeless style, offering unparalleled comfort, support, and performance. Step into the future of athletic footwear with Nike GT and experience a new standard of excellence with every stride.",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/aefd5d6a-1266-4b64-9830-86a23220109b/gt-cut-3-basketball-shoes-GLHCGc.png"
+
+},
+{
+    "id" : 8,
+    "name" : "Nike TR 13",
+    "brand": "Nike",
+    "price" : 179.99,
+    "description": "Introducing Nike TR 13: Dominate your workout with the ultimate training partner. Engineered to meet the demands of high-intensity training, the Nike TR 13 delivers stability, support, and flexibility in every stride. With a lightweight design and responsive cushioning, these sneakers keep you comfortable and agile from warm-up to cool-down. Whether you're lifting, jumping, or running, the Nike TR 13 provides the versatility and performance you need to crush your goals. Step up your training game with Nike TR 13 and unleash your full potential.",
+    "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ca79d356-421f-4a96-a823-b695f15c7a34/in-season-tr-13-workout-shoes-BDTlPf.png"
+
+}
+]
